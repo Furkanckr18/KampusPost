@@ -1,6 +1,8 @@
+Ekran Görüntüleri 
 
-Ekran Görüntüleri
-LoginScreen
+
+
+
 ![Login Screen](./ekrangörüntüleri/girişekranı.png)
 
 
